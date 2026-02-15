@@ -1,6 +1,0 @@
-identifier: my60ble
-name: My 60% BLE
-type: mcu
-arch: arm
-toolchain: [zephyr, gnuarmemb, xtools]
-supported: [adc, usb_device, ble, gpio, i2c, pwm, spi]

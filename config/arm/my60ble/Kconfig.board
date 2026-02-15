@@ -1,6 +1,0 @@
-# Copyright (c) 2020 The ZMK Contributors
-# SPDX-License-Identifier: MIT
-
-config BOARD_MY60BLE
-    bool "My 60% BLE Keyboard"
-    depends on SOC_NRF52840_QIAA
