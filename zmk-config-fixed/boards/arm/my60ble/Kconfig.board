@@ -1,0 +1,3 @@
+config BOARD_MY60BLE
+    bool "My 60% BLE"
+    depends on SOC_NRF52840_QIAA
